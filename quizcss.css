@@ -1,0 +1,42 @@
+
+body {
+    background-color: rgb(173, 179, 230);
+    font-family: Helvetica;
+    }
+    header{
+        width: 100%;
+        height: 50vh;
+        overflow: hidden;
+        position: relative;
+        object-fit: cover;
+        margin-bottom: 5vh;
+        
+    }
+    .header-image{
+    
+        position: absolute;
+        top: -30vh;
+        z-index: -1;
+        left:-70;
+        RIGHT:40;
+        border-width:5%;
+        border-style: solid;
+        border-color: black;
+        
+        
+        
+    
+
+    }label {
+    display: block;
+    }
+    
+    input {
+    width: 30px;
+    margin-left: 20px;
+    }
+    
+    button {
+    width: 100px;
+    margin-top: 20px;
+    }
